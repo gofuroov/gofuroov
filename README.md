@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gofuroov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @gofuroov (Olimjon Gofurov)
+- 👀 I’m interested in Web development (Php, Yii2, VueJs)
+- 🌱 I’m currently learning (Docker, php OMR)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gofuroov/gofuroov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me gofuroov@gmail.com, t.me/gofuroov
